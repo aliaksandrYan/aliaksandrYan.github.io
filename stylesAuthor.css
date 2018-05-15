@@ -1,0 +1,90 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.topnav{
+  overflow:hidden;
+  background-color:white;
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+  }
+.topnav a{
+  float:left;
+  color:black;
+  text-align:center;
+  padding: 10px 10px;
+  font-size:14px;
+  text-decoration:none;
+  font-family:Arial;
+}
+.topnav a:hover{
+  background-color:black;
+  color:white;
+}
+.content{
+  padding-top:50px;
+  height:850px;
+  text-align:center;
+  width:100vw;
+  background: url('https://pp.userapi.com/c841031/v841031990/58ec5/FqTsPSHCU7w.jpg') no-repeat center center fixed; 
+   background-size: cover;
+}
+p{
+ // text-align:left;
+  font-size:30px;
+  color:#2db300;
+  margin-left:100px;
+  font:Arial
+  }
+
+h1 {
+  font-size: 50px;
+  cursor: pointer;
+  text-shadow: 0 0 15px #999;
+  color: #b3ffe6 !important;
+  transition: all 1s;
+  }
+  h1:hover {
+    text-shadow: 0 0 0 #333;
+    }
+  h2{
+  color:white !important;
+    
+  }
+  h4{
+ background-color:#009999;
+border-color:#009999;
+padding-top:250px;
+}
+.image{
+    text-align: center;
+    border-color: #1ad1ff;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+    width:300px;
+}
+.contact{
+  width:100vw;
+  height:500px;
+  background-color:#009999;
+  padding-top:100px;
+  text-align:center;
+}
+.button{
+  width:100px;
+}
+.someDiv {
+  width: 500px;
+  margin: 10px
+}
+ ul {
+  font-size:20px;
+  margin:10px;
+  font:Arial;
+  color:#4d0099;
+   
+}
+ 

@@ -1,0 +1,58 @@
+body {
+  //background-image: url("http://izdatsovet.by/media/k2/items/cache/3d10c9c21f6f61faeefd4aa27b190def_XL.jpg");
+  background-color:#2E8B57;
+  
+  .caption{
+    color:#ADD8E6;
+    font-family:Serif;
+    font-weight:bold;
+    padding-top:80px;
+   // margin:20px;
+  }
+  .italic{
+    padding-left:850px;
+    font-weight:bolder;
+  }
+  h2{
+    font-family:Timew new roman;
+    //padding:20px;
+    margin-top:20px;
+    margin-bottom:50px;
+  }
+  h1{
+	top:20px;
+padding-top:10px !important;
+}
+  h4{
+	font-size:5px !important;
+}
+}
+div{
+	//margin-bottom:30px !important;
+}
+.ots{
+	margin-top:50px !important;
+}
+.topnav{
+  overflow:hidden;
+  background-color:white;
+  margin-bottom:10px;
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+  //bottom:20px;
+  }
+.topnav a{
+  float:left;
+  color:black;
+  text-align:center;
+  padding: 10px 10px;
+  font-size:14px;
+  text-decoration:none;
+  font-family:Arial;
+}
+.topnav a:hover{
+  background-color:black !important;
+  color:white !important;
+  }
